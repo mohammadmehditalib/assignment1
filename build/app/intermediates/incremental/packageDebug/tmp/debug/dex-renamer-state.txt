@@ -1,0 +1,4 @@
+#Sun Jun 11 21:35:48 BST 2023
+base.0=/Users/wipro/Documents/rotation/personal project/statemanagement/flutter_application_2/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

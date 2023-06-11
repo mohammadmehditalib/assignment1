@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "4e5af8b666acd843e217b5b0a49eea28d9ce32a526bd9dc4692ac788c78369df"
+build_start_time: [1685344836, 420932054]
+build_end_time: [1685344842, 770961046]
+inputs:
+  ? "/Users/wipro/Documents/rotation/personal project/statemanagement/flutter_application_2/macos/Flutter/GeneratedPluginRegistrant.swift"
+  : [1685344823, 312409400]
+  "/Users/wipro/Documents/rotation/personal project/statemanagement/flutter_application_2/macos/Runner/AppDelegate.swift": [1679656901, 638770103]
+  "/Users/wipro/Documents/rotation/personal project/statemanagement/flutter_application_2/macos/Runner/MainFlutterWindow.swift": [1679656901, 639564990]
